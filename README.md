@@ -32,8 +32,7 @@ Diovani Facco
 - Chrome
 
 #### Créditos
-
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
+- firebase.google.com
 - (https://www.youtube.com/watch?v=bSzf7cxa3Is)
 - (https://www.youtube.com/watch?v=WsEv01p3GXU)
 
