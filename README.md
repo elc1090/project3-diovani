@@ -2,41 +2,46 @@
 
 
 
-![Screenshot do projeto](/Sem título.png "Screenshot do projeto").
+![Screenshot do projeto](https://github.com/elc1090/project3-diovani/blob/175986a12879a13d34895cfeb032d998a6491bf7/Sem%20t%C3%ADtulo.png) "Screenshot do projeto").
 
 
 #### Descrição
 
-Preencha aqui uma descrição sucinta do projeto (tema e funcionalidades)
+Este é um site para realizar anotações e salvar videos vistos do youtube. Enquanto você assiste uma video aula, pode fazer anotações logo abaixo do vídeo.
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+(https://elc1090.github.io/project3-diovani/)
 
 
 #### Desenvolvedor(es)
-Preencha nomes aqui
+Diovani Facco
 
 
 #### Tecnologias
 
-Preencha aqui uma lista detalhada de tecnologias usadas para frontend, backend e persistência de dados
+- Hmtl
+- Css
+- JavaScript
+- Bootstrap
+- Firebase Realtime Database
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas
+- Vs code
+- Chrome
 
 #### Créditos
 
 Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de templates usados
-- URL de icon kits usados
-- Créditos para colegas que colaboraram
+- (https://www.youtube.com/watch?v=bSzf7cxa3Is)
+- (https://www.youtube.com/watch?v=WsEv01p3GXU)
 
 #### Bastidores
 
 
-Preencha aqui um breve relato dos bastidores e das particularidades do desenvolvimento do projeto, por exemplo: escolha do tema, algum detalhe marcante sobre as tecnologias usadas/aprendidas, bugs encontrados, alguma parte mais trabalhosa de implementar, etc.
+O trabalho foi feito em partes e depois sincronizado tudo, para o banco de dados usei o Realtime Database, para o front
+css basico e um pouco de bootstrap.
 
 
 
